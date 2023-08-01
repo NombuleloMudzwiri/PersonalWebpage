@@ -1,0 +1,106 @@
+/* External css Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    background-color: #8b60bc;
+  }
+  
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  a {
+    color: #f9f9f982;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Header Styles */
+  
+  header {
+    background-image: url('galaxy-background-nawpic-1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* Adjust the height as needed */
+    position: relative;
+  }
+  
+  .fade-in {
+    animation: fadeIn 2s forwards;
+    opacity: 0;
+  }
+  
+  @keyframes fadeIn {
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  header {
+    background-color: #5c4c58;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    
+  }
+  
+  header h1 {
+    color: white;
+    font-size: 28px;
+    margin-top: 0;
+    font-style: italic;
+  }
+  
+  header img {
+    border-radius: 10%;
+    margin-top: -6px;
+    max-width: 180px; 
+
+  }
+  
+  /* Main Content Styles */
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  section h2 {
+    color: rgb(240, 130, 236);
+    margin: 0;
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  section ul li {
+    margin-bottom: 10px;
+  }
+  
+  section p {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Styles */
+  
+  footer {
+    background-color: #68365593;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #bebede;
+  }
+  
+  
