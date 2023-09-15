@@ -23,7 +23,7 @@ This is my first personal portfolio website, showcasing my skills, projects, and
 1. Clone this repository to your local machine or download the ZIP file.
 
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+   git clone https://NombuleloMudzwiri/PersonalWebpage.git
 Open the project directory in your preferred code editor.
 
 ## Customize the content:
