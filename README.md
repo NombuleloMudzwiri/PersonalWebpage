@@ -1,6 +1,5 @@
 # Personal Portfolio
-
-![Portfolio Screenshot](https://github.com/NombuleloMudzwiri/PersonalWebpage/blob/main/IMG_20220427_182012_78.jpg)
+https://nombulelomudzwiri.github.io/PersonalWebpage/
 
 This is my first personal portfolio website, showcasing my skills, projects, and more. It's a simple HTML and CSS-based website that you can use as a template for creating your own personal portfolio.
 
